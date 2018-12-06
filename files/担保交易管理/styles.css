@@ -60,7 +60,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:232px;
+  width:288px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -80,7 +80,7 @@
   position:absolute;
   left:353px;
   top:110px;
-  width:232px;
+  width:288px;
   height:54px;
   font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:200;
@@ -93,7 +93,7 @@
   position:absolute;
   left:24px;
   top:16px;
-  width:208px;
+  width:264px;
   white-space:nowrap;
 }
 #u2_img {
